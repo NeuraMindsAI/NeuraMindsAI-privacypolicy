@@ -11,7 +11,7 @@ At **NeuraMindsAI**, we are committed to safeguarding personal data while delive
 ## 🔗 Live Privacy Policy  
 You can view the **Privacy Policy** live on GitHub Pages here:  
 
-➡️ [**NeuraMindsAI Privacy Policy**](https://yourgithubusername.github.io/NeuraMindsAI-PrivacyPolicy/privacy-policy.html)  
+➡️ [**NeuraMindsAI Privacy Policy**](https://neuramindsai.github.io/NeuraMindsAI-privacypolicy/)  
 
 ## 📄 What’s Inside?  
 ✔️ Information we collect 📊  
